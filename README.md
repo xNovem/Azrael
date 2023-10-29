@@ -60,6 +60,10 @@ All in one tool for **Information Gathering** and **Vulnerability Scanning**
     ### Run
     python Azrael.py
 
+### Report 
+
+novemhub@proton.me
+
 ### Credits
 Copyright © 2023 by <a href="https://github.com/xNovem">@Novem</a> 
 
